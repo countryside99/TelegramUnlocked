@@ -2,7 +2,7 @@
 An invisible, lightweight client-side privacy mod and restrictions bypass for Telegram Web K. Automatically enables Ghost Mode, unlocks protected channels, and freezes typing status.
 # Supported Browsers
 - Google Chrome / Chromium-based browser (See branch **main**)
-- Firefox (See branch **firefox**)
+- Firefox (See branch **mozilla-firefox**)
 # How to use
 
 - See if your browser is listed in the supported browsers. If not, please open an issue.
