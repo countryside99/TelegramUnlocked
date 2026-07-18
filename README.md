@@ -40,4 +40,4 @@ If you pull new changes from the repository:
 - Ensure you're selecting the correct **branch** for your browser.
 - If the extension doesn't load, check the browser's extension error logs for more details.
 # License notice
-The entire software and his repository are under the GNU General Public License 3.0, see `LICENSE` for further details
+The entire software and its repository are licensed under the GNU General Public License 3.0, see the `LICENSE` file for further details
