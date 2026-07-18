@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "TelegramUnlocked",
+  "version": "1.0",
+  "description": "Invisible privacy mod and restrictions bypass for Telegram Web K.",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "*://*.telegram.org/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.telegram.org/*"
+      ],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    }
+  ]
+}
