@@ -2,22 +2,21 @@
   "manifest_version": 3,
   "name": "TelegramUnlocked",
   "version": "1.0",
-  "description": "Invisible privacy mod and restrictions bypass for Telegram Web K.",
+  "description": "Unlock features and protect privacy on Telegram Web K.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "telegramunlocked@mod.local"
+    }
+  },
   "permissions": [
     "storage"
   ],
-  "host_permissions": [
-    "*://*.telegram.org/*"
-  ],
   "content_scripts": [
     {
-      "matches": [
-        "*://*.telegram.org/*"
-      ],
+      "matches": ["<all_urls>"],
       "js": ["content.js"],
       "css": ["styles.css"],
-      "run_at": "document_start",
-      "world": "MAIN"
+      "run_at": "document_idle"
     }
   ]
 }
