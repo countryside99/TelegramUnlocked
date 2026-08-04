@@ -1,3 +1,15 @@
+# PylaAndroid
+
+## 🤝 Responsible AI Usage
+<p align="center">
+  <a href="https://www.realgoodai.org/real-rating">
+    <img src="RealGoodAI.gif" width="150" alt="Real Good AI logo">
+  </a>
+</p>
+
+TelegramUnlocked is committed to transparent and responsible AI development and follows the principles of the **REAL Rating** framework for disclosing AI usage.
+
+[![Learn more](https://img.shields.io/badge/Learn%20More-REAL%20Rating-0B6E99?style=for-the-badge&logoColor=white)](https://www.realgoodai.org/real-rating)
 # TelegramUnlocked
 An invisible, lightweight client-side privacy mod and restrictions bypass for Telegram Web K. Automatically enables Ghost Mode, unlocks protected channels, and freezes typing status.
 # Supported Browsers
