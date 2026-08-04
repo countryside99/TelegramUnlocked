@@ -1,4 +1,4 @@
-# PylaAndroid
+# TelegramUnlocked
 
 ## 🤝 Responsible AI Usage
 <p align="center">
